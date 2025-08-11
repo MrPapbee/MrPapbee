@@ -13,5 +13,5 @@
  <img src="https://gifcity.carrd.co/assets/images/gallery45/abef9b35.gif?v=e3c0bc0f"/>
 </div>
 
-<h3 align="left">I am level 18 !!</h3>
-<h3 align="left">Usually at ponytown docks ready to ruin lives</h3>
+<h3 align="center">I am level 18 !!</h2>
+<h3 align="center">Usually at ponytown docks ready to ruin lives</h2>
