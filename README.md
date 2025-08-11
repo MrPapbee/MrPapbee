@@ -1,7 +1,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </div>
 
 <h3 align="center">HI losers it's me the guy on your computer screen!!</h3>
