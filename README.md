@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**MrPapbee/MrPapbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+###
+<h3 align="left">HI losers it's me the guy on your computer screen!!</h3>
+<div align="right">
+  <img src="https://i.pinimg.com/736x/9b/ce/35/9bce354e38b63ce445f2a0a267c0c05d.jpg"/>
+###
+ <img src="https://gifcity.carrd.co/assets/images/gallery45/abef9b35.gif?v=e3c0bc0f"/>
