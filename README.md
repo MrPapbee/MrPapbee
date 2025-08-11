@@ -20,4 +20,4 @@
  <img src="https://gifcity.carrd.co/assets/images/gallery44/b3795190.gif?v=e3c0bc0f"/>
 </div>
 
-![](https://komarev.com/ghpvc/?MrPapbee&label=STALKER+COUNT)
+![](https://komarev.com/ghpvc/?username=MrPapbee&color=lightblue&label=STALKER+COUNT)
