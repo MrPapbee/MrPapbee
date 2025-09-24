@@ -37,7 +37,7 @@
   <img src="https://i.ibb.co/Xx39qHbN/554662269-798044392607320-2474002606174231283-n.jpg"  height="500" />
 </div
 
-<h2 align="center">Art of Halloween Kokichi by the amazing Gwey!!!)</h2>
+<h2 align="center">Art of Halloween Kokichi by the amazing Gwey!!!</h2>
 
 ![](https://komarev.com/ghpvc/?username=MrPapbee&color=ADD8E6&label=STALKER+COUNT)
  
