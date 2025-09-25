@@ -23,6 +23,7 @@
 </div
   <div align="right">
 <h2 align="center">Art of Halloween Kokichi by the GOAT Gwey!!</h2>
+     <div align="center">
  <img src="https://i8.glitter-graphics.org/pub/328/328258ktu8aabbac.gif"/>
 </div>
 
