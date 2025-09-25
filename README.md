@@ -23,7 +23,7 @@
 </div
   <div align="right">
 <h2 align="center">Art of Halloween Kokichi by the GOAT Gwey!!</h2>
- <img src="https://gifcity.carrd.co/assets/images/gallery44/b3795190.gif?v=e3c0bc0f"/>
+ <img src="https://i8.glitter-graphics.org/pub/328/328258ktu8aabbac.gif"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=MrPapbee&color=ADD8E6&label=STALKER+COUNT)
