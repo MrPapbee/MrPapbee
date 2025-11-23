@@ -24,7 +24,7 @@
   <div align="right">
 <h2 align="center">Art of Halloween Kokichi by the GOAT Gwey!!</h2>
      <div align="center">
- <img src="https://i.pinimg.com/originals/a8/9c/44/a89c44f1f2fb2df49ca360320ae1480b.gif"/>
+ <img src="https://i.pinimg.com/originals/a8/9c/44/a89c44f1f2fb2df49ca360320ae1480b.gif" height="100" />
 </div>
  <div align="center">
  <img src="https://dl.glitter-graphics.com/pub/2848/2848128fcljylhc8v.gif"/>
