@@ -9,7 +9,7 @@
 </div>
  <div>
   <img src="https://i.ibb.co/7tx8D29V/Screenshot-2025-12-11-174410.png" height="70" />
-<h3 align="center">Usually at ponytown docks ready to ruin lives</h3>
+ <img src="https://i.ibb.co/v43myKx5/Screenshot-2025-12-11-174802.png" height="60" />
  </div>
   <div align="center">
  <img src="https://gifcity.carrd.co/assets/images/gallery81/a0064aa4.gif?v=e3c0bc0f"/>
