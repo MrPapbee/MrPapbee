@@ -3,7 +3,7 @@
   <img src="https://gifcity.carrd.co/assets/images/gallery54/418a5bc8.gif?v=e3c0bc0f"/>
 </div>
 <p align="center">
-   $${\color{#1e90ff }{HI!! It's me, the guy on your computer screen}$$
+   $${\color{#1e90ff }HI!! It's me, the guy on your computer screen}$$
 </p>
 <div align="center">
   <img src="https://i.pinimg.com/736x/9b/ce/35/9bce354e38b63ce445f2a0a267c0c05d.jpg" height="200"/>
