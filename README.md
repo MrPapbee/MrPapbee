@@ -8,7 +8,7 @@
  <img src="https://gifcity.carrd.co/assets/images/gallery45/abef9b35.gif?v=e3c0bc0f"/>
 </div>
  <div>
-  <img src="https://i.ibb.co/7tx8D29V/Screenshot-2025-12-11-174410.png" height="60" />
+  <img src="https://i.ibb.co/7tx8D29V/Screenshot-2025-12-11-174410.png" height="80" />
  <img src="https://i.ibb.co/v43myKx5/Screenshot-2025-12-11-174802.png" height="60" />
  </div>
   <div align="center">
