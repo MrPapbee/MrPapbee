@@ -20,9 +20,11 @@
   <div>
     <img src="https://i.ibb.co/j94DDW9T/Screenshot-2025-12-11-175042.png" height="60"
       </div>
+    <div align="center">
     <a href="https://www.youtube.com/channel/UCavo3XZccs2IdOYQM60e2gA">
        <img src="https://blinkies.cafe/b/display/0203-youtubelogo.gif"100="size"/>
     </a> 
+    </div>
      <div align="center">
  <img src="https://i.pinimg.com/originals/a8/9c/44/a89c44f1f2fb2df49ca360320ae1480b.gif" height="300" />
 </div>
