@@ -7,8 +7,10 @@
 <div align="center">
  <img src="https://gifcity.carrd.co/assets/images/gallery45/abef9b35.gif?v=e3c0bc0f"/>
 </div>
-  <h3 align="center">I am level 18 !!</h2>
+ <div>
+  <img src="https://i.ibb.co/7tx8D29V/Screenshot-2025-12-11-174410.png" height="70" />
 <h3 align="center">Usually at ponytown docks ready to ruin lives</h3>
+ </div>
   <div align="center">
  <img src="https://gifcity.carrd.co/assets/images/gallery81/a0064aa4.gif?v=e3c0bc0f"/>
 </div>
