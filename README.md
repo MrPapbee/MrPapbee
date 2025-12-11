@@ -1,11 +1,22 @@
 
 <div align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery54/418a5bc8.gif?v=e3c0bc0f"/>
-</div>
-<p align="center">
-   $${\color{#1e90ff }HI!! It's me, the guy on your computer screen}$$
-</p>
-<div align="center">
+  <style>
+.colorful-text {
+    font-family: 'Pacifico', cursive;
+    font-size: 28px;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1.4;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-shadow: none;
+    animation: 0s ease 0s 1 normal none running none;
+    /* Beautiful colorful text styling applied */
+}
+    </style>
   <img src="https://i.pinimg.com/736x/9b/ce/35/9bce354e38b63ce445f2a0a267c0c05d.jpg" height="200"/>
 </div>
 <div align="center">
