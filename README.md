@@ -17,7 +17,9 @@
   <div align="center">
  <img src="https://gifcity.carrd.co/assets/images/gallery44/b3795190.gif?v=e3c0bc0f"/>
 </div>
-  <h2 align="center">Check out my StrawPage for more info!!!</h2>
+  <div>
+    <img src="https://i.ibb.co/j94DDW9T/Screenshot-2025-12-11-175042.png" height="60"
+  </div>
      <div align="center">
  <img src="https://i.pinimg.com/originals/a8/9c/44/a89c44f1f2fb2df49ca360320ae1480b.gif" height="300" />
 </div>
