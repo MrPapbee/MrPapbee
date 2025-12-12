@@ -22,7 +22,10 @@
       </div>
     <div align="center">
     <a href="https://www.youtube.com/channel/UCavo3XZccs2IdOYQM60e2gA">
-       <img src="https://blinkies.cafe/b/display/0203-youtubelogo.gif"100="size"/>
+       <img src="https://blinkies.cafe/b/display/0203-youtubelogo.gif"50="size"/>
+    </a> 
+      <a href="https://mrpapbee.straw.page/">
+       <img src="https://blinkies.cafe/b/blinkiesCafe-XD.gif"50="size"/>
     </a> 
     </div>
      <div align="center">
