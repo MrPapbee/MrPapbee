@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/mCXpZ4VZ/Screenshot-2025-12-11-173155.png" height="100" />
 </div>
 <div align="center">
- <img src="https://gifcity.carrd.co/assets/images/gallery45/abef9b35.gif?v=e3c0bc0f"/>
+ <img src="https://gifcity.carrd.co/assets/images/gallery43/91837213.gif?v=e3c0bc0f"/>
 </div>
  <div>
   <img src="https://i.ibb.co/7tx8D29V/Screenshot-2025-12-11-174410.png" height="80" />
