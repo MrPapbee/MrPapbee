@@ -15,7 +15,7 @@
  <img src="https://gifcity.carrd.co/assets/images/gallery81/a0064aa4.gif?v=e3c0bc0f"/>
 </div>
   <div align="center">
- <img src=https://autism.crd.co/assets/images/gallery01/0b66fe3e.gif?v=d6547f5c"/>
+ <img src="https://autism.crd.co/assets/images/gallery01/1e3d83e7.gif?v=d6547f5c"/>
 </div>
   <div>
     <img src="https://i.ibb.co/j94DDW9T/Screenshot-2025-12-11-175042.png" height="80"
