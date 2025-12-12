@@ -18,7 +18,7 @@
  <img src="https://gifcity.carrd.co/assets/images/gallery44/b3795190.gif?v=e3c0bc0f"/>
 </div>
   <div>
-    <img src="https://i.ibb.co/j94DDW9T/Screenshot-2025-12-11-175042.png" height="60"
+    <img src="https://i.ibb.co/j94DDW9T/Screenshot-2025-12-11-175042.png" height="70"
       </div>
     <div align="center">
     <a href="https://www.youtube.com/channel/UCavo3XZccs2IdOYQM60e2gA">
