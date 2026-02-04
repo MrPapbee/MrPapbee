@@ -25,7 +25,7 @@
        <img src="https://blinkies.cafe/b/display/0203-youtubelogo.gif"30="size"/>
     </a> 
       <a href="https://mrpapbee.straw.page/">
-       <img src="https://i.ibb.co/KzpVYprX/blinkies-Cafe-qi.gif"30="size"/>
+       <img src="https://i.ibb.co/TD9kg3q2/blinkies-Cafe-BF.gif"30="size"/>
     </a> 
     </div>
      <div align="center">
